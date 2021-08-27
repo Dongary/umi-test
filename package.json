@@ -20,15 +20,26 @@
     ]
   },
   "dependencies": {
+    "@ant-design/charts": "^0.9.4",
+    "@ant-design/icons": "^4.0.0",
     "@ant-design/pro-layout": "^6.5.0",
+    "@antv/l7": "^2.3.7",
+    "@antv/l7-maps": "^2.3.7",
+    "@antv/l7-react": "^2.1.9",
+    "classnames": "^2.2.6",
+    "mockjs": "^1.1.0",
+    "moment": "^2.24.0",
+    "numeral": "^2.0.6",
     "react": "17.x",
     "react-dom": "17.x",
+    "react-router": "^4.3.1",
     "umi": "^3.5.17"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
-    "@umijs/preset-react": "1.x",
+    "@umijs/preset-react": "^1.8.22",
+    "@umijs/preset-ui": "^2.2.9",
     "@umijs/test": "^3.5.17",
     "lint-staged": "^10.0.7",
     "prettier": "^2.2.0",
